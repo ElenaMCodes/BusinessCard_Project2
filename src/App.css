@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+  background-color: #23252C;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  background-color: #21222A;
+  height: 90px;
+  padding: 30px 25px;
+}
+
+.Intro {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+Main {
+  color: #FFFFFF;
+}
+
+.Title {
+  width: 310px;
+  height: 21px;
+  padding: 6px;
+}
+
+.Title2 {
+  width: 310px;
+  height: 14.19px;
+  padding: 9px;
+  font-weight: 400;
+  color: #F3BF99
+}
+
+.website {
+  width: 310px;
+  height: 16px;
+  text-align: center;
+}
+
+.button1 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+}
+
+.button2 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+}
+
+.twitter {
+padding: 24px;
+}
+
+.fb {
+padding: 24px;
+}
+.insta {
+padding: 24px;
+}
+.github {
+padding: 24px;
+}
